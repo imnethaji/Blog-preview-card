@@ -8,4 +8,4 @@ This is my version of the front end mentor challenge. The challenge is to create
 
 # My solution
 
-![Design preview for the Blog preview card coding challenge](./src/solution-picture.png)
+![Design preview for the Blog preview card coding challenge](./src/solution-picture_u.png)
